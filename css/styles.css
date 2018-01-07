@@ -1,0 +1,23 @@
+body {
+  background-color: #112e51;
+}
+
+h1, h2, h3 {
+  font-family: "Source Sans Pro";
+}
+
+.main-content {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: white;
+}
+
+
+fieldset {
+  margin-bottom: 30px;
+}
+
+
+p.description {
+  font-style: italic;
+}
